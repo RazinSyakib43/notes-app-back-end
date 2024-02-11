@@ -1,0 +1,10 @@
+# server configuration
+HOST=localhost
+PORT=3000
+
+# node-postgres configuration
+PGUSER={{PGUSER}}
+PGHOST=localhost
+PGPASSWORD={{PGPASSWORD}}
+PGDATABASE=notesapp
+PGPORT=5432
